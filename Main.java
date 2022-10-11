@@ -1,3 +1,6 @@
 public class Main {
-    private final String susosss;
+    public static void main(String[] args) {
+        System.out.println();
+    }
+
 }
